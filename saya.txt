@@ -1,0 +1,9 @@
+x
+
+
+:waq
+
+
+
+wq!
+git config --global color.ui truegit config --global color.ui true
